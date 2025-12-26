@@ -25,7 +25,4 @@
 - Axios
 - dotenv
 
----
-
-## 📁 Project Structure (пример)
 
